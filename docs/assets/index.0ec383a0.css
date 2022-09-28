@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(./assets/background.8990c3f2.png);
+    background-image: url('./background.8990c3f2.png');
     background-position-y: 63%;
     color: #bfbfbf;
     font-family: Poppins, sans-serif;
@@ -194,7 +194,7 @@ textarea {
 }
 
 .link-grid {
-    background-image: url(./assets/bg-shorten-desktop.d119628f.svg);
+    background-image: url('./bg-shorten-desktop.d119628f.svg');
     background-color: #3a3053;
     border-radius: 10px;
     height: 150px;
@@ -367,7 +367,7 @@ textarea {
 
 #boost-wrap {
     background-color: #3a3053;
-    background-image: url(./assets/bg-boost-desktop.05593952.svg);
+    background-image: url('./bg-boost-desktop.05593952.svg');
     margin-top: 110px;
     height: 225px;
     width: 100%
@@ -834,7 +834,7 @@ textarea {
     }
 
     .link-grid {
-        background-image: url(./assets/bg-shorten-mobile.53ca2a05.svg);
+        background-image: url('./bg-shorten-mobile.53ca2a05.svg');
         background-size: 287px;
         background-repeat: no-repeat;
         background-position-x: 95px;
@@ -868,7 +868,7 @@ textarea {
 
     @media (max-width:370px) {
         #boost-wrap {
-            background-image: url(./assets/bg-boost-mobile.683c4474.svg);
+            background-image: url('./bg-boost-mobile.683c4474.svg');
             background-repeat: no-repeat
         }
     }
